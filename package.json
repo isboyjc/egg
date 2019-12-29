@@ -1,0 +1,25 @@
+{
+  "name": "egg",
+  "version": "1.0.0",
+  "description": "基于koa的企业级框架egg源码实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isboyjc/egg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isboyjc/egg/issues"
+  },
+  "homepage": "https://github.com/isboyjc/egg#readme",
+  "dependencies": {
+    "koa-router": "^7.4.0",
+    "mysql2": "^2.1.0",
+    "node-schedule": "^1.3.2",
+    "sequelize": "^5.21.3"
+  }
+}
